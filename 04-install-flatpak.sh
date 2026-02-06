@@ -9,6 +9,7 @@ apps=(
   com.spotify.Client
   com.discordapp.Discord
   net.cozic.joplin_desktop
+  org.videolan.VLC
 )
 
 for app in "${apps[@]}"; do

@@ -6,7 +6,7 @@ sudo pacman -S --needed --noconfirm \
   base-devel \
   git curl zip unzip make \
   openssh timeshift blueman \
-  chromium vlc nano \
+  chromium nano \
   flatpak \
   cups cups-pdf hplip system-config-printer \
   noto-fonts-cjk \

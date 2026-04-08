@@ -1,3 +1,5 @@
+### This file is deprecated !!!
+
 #!/bin/bash
 set -euo pipefail
 
